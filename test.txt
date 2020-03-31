@@ -4,4 +4,5 @@ new line for master
 hotfix
 new line for testbranch
 some text in testbranch
+rebase test
 
