@@ -1,8 +1,0 @@
-new line
-second line
-new line for master
-hotfix
-new line for testbranch
-some text in testbranch
-new text
-rebase test
