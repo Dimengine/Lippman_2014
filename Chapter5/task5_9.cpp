@@ -9,13 +9,13 @@ int main()
     {
         if (symbol == 'a')
             ++vowelCount;
-        if (symbol == 'o')
+        else if (symbol == 'o')
             ++vowelCount;
-        if (symbol == 'e')
+        else if (symbol == 'e')
             ++vowelCount;
-        if (symbol == 'i')
+        else if (symbol == 'i')
             ++vowelCount;
-        if (symbol == 'u')
+        else if (symbol == 'u')
             ++vowelCount;
     }
     std::cout << vowelCount << std::endl;

@@ -3,9 +3,9 @@
 
 int main()
 {
-	Sales_item item, res;
+    Sales_item item, res;
 
-	while (std::cin >> item)
-		res += item;
-	std::cout << res << std::endl;
+    while (std::cin >> item)
+        res += item;
+    std::cout << res << std::endl;
 }

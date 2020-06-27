@@ -2,9 +2,7 @@
 
 int main()
 {
-	int a = 8, b = 2, c;
-
-	c = a / b;
-	std::cout << c << std::endl;
-	return 0;
+    int a, b;
+    std::cin >> a >> b;
+    std::cout << a / b << std::endl;
 }

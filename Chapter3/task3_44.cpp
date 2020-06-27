@@ -2,7 +2,7 @@
 
 int main()
 {
-    int arr[3][4] = {1,2,3,4,5,6,7,8,9,10,11,12};
+    int arr[3][4] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12};
 
     typedef int (&int_arr1)[4];
     typedef int (*int_arr2)[4];

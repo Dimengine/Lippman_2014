@@ -4,7 +4,7 @@ int get_size()
 }
 int main()
 {
-	int sz = 0;
-	while (sz <= 0)
-		sz = get_size();
+    int sz = 0;
+    while (sz <= 0)
+        sz = get_size();
 }

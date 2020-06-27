@@ -27,6 +27,6 @@ int main()
         max_word = prev_word;
     }
     if (!max_word.empty())
-		std::cout << "Word " << max_word << " dublicates " << max_count << " times" << std::endl;
-	else std::cout << "No dublicates" << std::endl; 
+        std::cout << "Word " << max_word << " dublicates " << max_count << " times" << std::endl;
+    else std::cout << "No dublicates" << std::endl; 
 }

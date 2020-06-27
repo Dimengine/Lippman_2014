@@ -3,7 +3,7 @@
 
 int main()
 {
-    std::vector<int> ivec {4,64,23,43};
+    std::vector<int> ivec {4, 64, 23, 43};
     std::vector<int>::size_type cnt = ivec.size();
 
     for(std::vector<int>::size_type ix = 0; ix != ivec.size(); ix++, cnt--)
